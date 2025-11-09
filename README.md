@@ -1,3 +1,2 @@
 # scripts
-+++++++++++++++++++++++++++++
-Just a random script repository.
+Just a script repository.
